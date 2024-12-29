@@ -15,7 +15,7 @@
 
 - The frontend, built with React.js, provides an intuitive interface for displaying blog posts and submitting new articles. The backend, powered by Node.js and Express.js, manages API requests for creating, retrieving, updating, and deleting posts. This project aims to demonstrate the practical implementation of a full-stack web application with clean, modular architecture and a focus on user experience.
 
-### Key Activities
+### Key Activities:
 **User Interaction:**
 - Users can view a list of blog posts with titles and content.
 - Users can create new blog posts through a form interface.
@@ -42,7 +42,7 @@
 - Form validation for user input.
 - Backend error handling for smooth API operations.
 
-### Technologies Used
+### Technologies Used:
 **Frontend**
 - React.js - For building the user interface and managing state.
 - React Router - For routing between pages (if applicable).
