@@ -9,6 +9,7 @@
 # Overview of the Project
 
 ### Project: SIMPLE BLOG WEB APPLICATION USING MERN TECHNOLOGY
+![task 2](https://github.com/user-attachments/assets/af8fe698-e68d-4bf6-a79d-df854c1b527c)
 
 ### Objective
 - The objective of this project is to build a simple and functional blog application where users can read and post blog articles. This application introduces the fundamentals of CRUD (Create, Read, Update, Delete) operations while showcasing how to structure a MERN (MongoDB, Express.js, React.js, Node.js) stack application.
